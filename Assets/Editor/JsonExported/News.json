@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Serial",
+    "Time": "26.02.2024",
+    "Title": "Повара на колесах!",
+    "Description": "Одну из серий реалити сериала с шеф-поварами MICHELIN не так давно снимали в Уфе...",
+    "ImagePath": "News1.png"
+  },
+  {
+    "Name": "TRAVEL AWARDS",
+    "Time": "22.02.2024",
+    "Title": "Башкортостан по версии RUSSIAN TRAVEL AWARDS",
+    "Description": "Башкортостан признан регионом этнокультурного туризма и регионом турмаршрутов и...",
+    "ImagePath": "News2.png"
+  },
+  {
+    "Name": "ReplaySerial",
+    "Time": "26.02.2024",
+    "Title": "Повара на колесах!",
+    "Description": "Одну из серий реалити сериала с шеф-поварами MICHELIN не так давно снимали в Уфе...",
+    "ImagePath": "News1.png"
+  }
+]
